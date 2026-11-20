@@ -1,27 +1,16 @@
-# 跨时区活动机会账与补偿场次
+# 巡展主题触达与无障碍导览重排
 
-合作校按班确认每周双语交流机会。时区为 IANA 标识；本地预约的 offset 是已核对的 UTC 偏移，缺省表示来源未作消歧。 数据均为合成。
+所有记录都是本地合成数据。CSV 为 UTF-8 且有首行字段名；JSON 空值表示未报告。
 
-CSV 使用 UTF-8、首行字段名，`-` 表示来源未填；JSON 使用原生布尔、字符串及数字。没有另行给定时，`seq` 只用于还原各条来件的先后，不是业务日期。
+## 补充来源说明
 
-## 来源说明
-
-- `groups.csv`：available.csv 的教学周从当地周一开始；人数是全班保留名额，不可拆班充抵一次。加号分隔的所有语种均需由场次提供。
-- `sessions.csv`：start_local 用 host_tz 解释，duration 是实逝分钟。正常场次和补场都只有 hosts 声明的共享容量。
-- `invites.csv`：declined 为学校主动谢绝；confirmed 为实际确认；offered 只表收到但未占用名额。更正消息影响当期事实，不隐式撤销历史 confirmed。
-
-## 数据清单
-
-- `groups.csv`：`group`, `school`, `timezone`, `students`, `languages`。
-- `available.csv`：`rule`, `group`, `from`, `through`, `weekday`, `start_local`, `end_local`。
-- `sessions.csv`：`id`, `host_tz`, `start_local`, `offset`, `duration`, `languages`, `hosts`。
-- `invites.csv`：`seq`, `group`, `session`, `kind`, `state`。
-- `changes.json`：记录数组。
-- `contract.json`：配置对象。
+- `venues.json`：展馆分工作日开放的通行图。moves 的各项依次为起点、终点、步行分钟、是否无障碍、每 15 分钟最大通过人数。open、close、counter_ticks 各项以实际时段分钟编号；班团的 group 是方位观测采用的对象。
+- `observations.json`：visit 是点位观测号而非队伍号。group 若缺失，candidate 是可连接的上一个点位；计数为分方向经过人数，可含回访。selected 表示入口抽样已入样，prob 是队伍抽中概率；seen_area 不是抽样区域以外的推断。
+- `booking_and_readback.json`：预约和场馆导视交接。已售队伍有固定集合时段，必须停靠 stops；open-plan 只是布置确认，之后当天实况的 installed 才可用于归因。
 
 ## 本地检查
 
-使用 Python 3.11 标准库，无需安装第三方依赖。构建检查和来源契约测试：
+使用 Python 3.11 标准库。当前可运行的是来源契约检查：
 
 ```sh
 python3 -m compileall -q tests

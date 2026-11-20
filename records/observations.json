@@ -1,0 +1,7803 @@
+{
+  "observed": [
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-0-0",
+      "group": "1-海馆-0",
+      "minute": 14,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-0-1",
+      "group": "1-海馆-0",
+      "minute": 21,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "1-海馆-0-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-0-2",
+      "group": "1-海馆-0",
+      "minute": 28,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "1-海馆-0-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-0-3",
+      "group": "1-海馆-0",
+      "minute": 35,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "1-海馆-0-2"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-0-4",
+      "group": "1-海馆-0",
+      "minute": 42,
+      "people": 1,
+      "seen_area": "青厅",
+      "candidate": [
+        "1-海馆-0-3"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-1-0",
+      "group": "1-海馆-1",
+      "minute": 15,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-1-1",
+      "group": null,
+      "minute": 22,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "1-海馆-1-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-1-2",
+      "group": null,
+      "minute": 29,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "1-海馆-1-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-2-0",
+      "group": "1-海馆-2",
+      "minute": 16,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-2-1",
+      "group": null,
+      "minute": 23,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "1-海馆-2-0",
+        "1-海馆-1-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-2-2",
+      "group": null,
+      "minute": 30,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "1-海馆-2-1",
+        "1-海馆-1-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-3-0",
+      "group": "1-海馆-3",
+      "minute": 17,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-3-1",
+      "group": null,
+      "minute": 24,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "1-海馆-3-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-3-2",
+      "group": null,
+      "minute": 31,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "1-海馆-3-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-4-0",
+      "group": "1-海馆-4",
+      "minute": 24,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-4-1",
+      "group": null,
+      "minute": 31,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "1-海馆-4-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-4-2",
+      "group": null,
+      "minute": 38,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "1-海馆-4-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-5-0",
+      "group": "1-海馆-5",
+      "minute": 25,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-5-1",
+      "group": "1-海馆-5",
+      "minute": 32,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "1-海馆-5-0",
+        "1-海馆-4-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-6-0",
+      "group": "1-海馆-6",
+      "minute": 26,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-6-2",
+      "group": null,
+      "minute": 40,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "1-海馆-6-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-7-0",
+      "group": "1-海馆-7",
+      "minute": 27,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-7-1",
+      "group": null,
+      "minute": 34,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "1-海馆-7-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-7-2",
+      "group": null,
+      "minute": 41,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "1-海馆-7-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-7-3",
+      "group": null,
+      "minute": 48,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "1-海馆-7-2"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-7-4",
+      "group": null,
+      "minute": 55,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "1-海馆-7-3"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-8-0",
+      "group": "1-海馆-8",
+      "minute": 34,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-8-1",
+      "group": null,
+      "minute": 41,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "1-海馆-8-0",
+        "1-海馆-7-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-8-2",
+      "group": null,
+      "minute": 48,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "1-海馆-8-1",
+        "1-海馆-7-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-9-0",
+      "group": "1-海馆-9",
+      "minute": 35,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-9-1",
+      "group": null,
+      "minute": 42,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "1-海馆-9-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-9-2",
+      "group": null,
+      "minute": 49,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "1-海馆-9-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-10-0",
+      "group": "1-海馆-10",
+      "minute": 36,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-10-1",
+      "group": "1-海馆-10",
+      "minute": 43,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "1-海馆-10-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-10-2",
+      "group": "1-海馆-10",
+      "minute": 50,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "1-海馆-10-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-11-0",
+      "group": "1-海馆-11",
+      "minute": 37,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-11-1",
+      "group": null,
+      "minute": 44,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "1-海馆-11-0",
+        "1-海馆-10-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-11-2",
+      "group": null,
+      "minute": 51,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "1-海馆-11-1",
+        "1-海馆-10-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-12-0",
+      "group": "1-海馆-12",
+      "minute": 44,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-12-1",
+      "group": null,
+      "minute": 51,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "1-海馆-12-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-12-2",
+      "group": null,
+      "minute": 58,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "1-海馆-12-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-13-0",
+      "group": "1-海馆-13",
+      "minute": 45,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-13-1",
+      "group": null,
+      "minute": 52,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "1-海馆-13-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-14-0",
+      "group": "1-海馆-14",
+      "minute": 46,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-14-2",
+      "group": null,
+      "minute": 60,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "1-海馆-14-1",
+        "1-海馆-13-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-14-3",
+      "group": null,
+      "minute": 67,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "1-海馆-14-2",
+        "1-海馆-13-2"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-14-4",
+      "group": null,
+      "minute": 74,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "1-海馆-14-3",
+        "1-海馆-13-3"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-15-0",
+      "group": "1-海馆-15",
+      "minute": 47,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-15-1",
+      "group": "1-海馆-15",
+      "minute": 54,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "1-海馆-15-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "visit": "1-海馆-15-2",
+      "group": "1-海馆-15",
+      "minute": 61,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "1-海馆-15-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-0-0",
+      "group": "2-海馆-0",
+      "minute": 14,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-0-1",
+      "group": "2-海馆-0",
+      "minute": 21,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "2-海馆-0-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-0-2",
+      "group": "2-海馆-0",
+      "minute": 28,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "2-海馆-0-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-0-3",
+      "group": "2-海馆-0",
+      "minute": 35,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "2-海馆-0-2"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-0-4",
+      "group": "2-海馆-0",
+      "minute": 42,
+      "people": 1,
+      "seen_area": "青厅",
+      "candidate": [
+        "2-海馆-0-3"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-1-0",
+      "group": "2-海馆-1",
+      "minute": 15,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-1-1",
+      "group": null,
+      "minute": 22,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "2-海馆-1-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-1-2",
+      "group": null,
+      "minute": 29,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "2-海馆-1-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-2-0",
+      "group": "2-海馆-2",
+      "minute": 16,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-2-1",
+      "group": null,
+      "minute": 23,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "2-海馆-2-0",
+        "2-海馆-1-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-2-2",
+      "group": null,
+      "minute": 30,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "2-海馆-2-1",
+        "2-海馆-1-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-3-0",
+      "group": "2-海馆-3",
+      "minute": 17,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-3-1",
+      "group": null,
+      "minute": 24,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "2-海馆-3-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-3-2",
+      "group": null,
+      "minute": 31,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "2-海馆-3-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-4-0",
+      "group": "2-海馆-4",
+      "minute": 24,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-4-1",
+      "group": null,
+      "minute": 31,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "2-海馆-4-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-5-0",
+      "group": "2-海馆-5",
+      "minute": 25,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-5-2",
+      "group": "2-海馆-5",
+      "minute": 39,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "2-海馆-5-1",
+        "2-海馆-4-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-6-0",
+      "group": "2-海馆-6",
+      "minute": 26,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-6-1",
+      "group": null,
+      "minute": 33,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "2-海馆-6-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-6-2",
+      "group": null,
+      "minute": 40,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "2-海馆-6-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-7-0",
+      "group": "2-海馆-7",
+      "minute": 27,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-7-1",
+      "group": null,
+      "minute": 34,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "2-海馆-7-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-7-2",
+      "group": null,
+      "minute": 41,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "2-海馆-7-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-7-3",
+      "group": null,
+      "minute": 48,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "2-海馆-7-2"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-7-4",
+      "group": null,
+      "minute": 55,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "2-海馆-7-3"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-8-0",
+      "group": "2-海馆-8",
+      "minute": 34,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-8-1",
+      "group": null,
+      "minute": 41,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "2-海馆-8-0",
+        "2-海馆-7-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-8-2",
+      "group": null,
+      "minute": 48,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "2-海馆-8-1",
+        "2-海馆-7-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-9-0",
+      "group": "2-海馆-9",
+      "minute": 35,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-9-1",
+      "group": null,
+      "minute": 42,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "2-海馆-9-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-9-2",
+      "group": null,
+      "minute": 49,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "2-海馆-9-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-10-0",
+      "group": "2-海馆-10",
+      "minute": 36,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-10-1",
+      "group": "2-海馆-10",
+      "minute": 43,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "2-海馆-10-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-10-2",
+      "group": "2-海馆-10",
+      "minute": 50,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "2-海馆-10-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-11-0",
+      "group": "2-海馆-11",
+      "minute": 37,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-11-1",
+      "group": null,
+      "minute": 44,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "2-海馆-11-0",
+        "2-海馆-10-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-11-2",
+      "group": null,
+      "minute": 51,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "2-海馆-11-1",
+        "2-海馆-10-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-12-0",
+      "group": "2-海馆-12",
+      "minute": 44,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-12-1",
+      "group": null,
+      "minute": 51,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "2-海馆-12-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-13-0",
+      "group": "2-海馆-13",
+      "minute": 45,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-13-2",
+      "group": null,
+      "minute": 59,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "2-海馆-13-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-14-0",
+      "group": "2-海馆-14",
+      "minute": 46,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-14-1",
+      "group": null,
+      "minute": 53,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "2-海馆-14-0",
+        "2-海馆-13-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-14-2",
+      "group": null,
+      "minute": 60,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "2-海馆-14-1",
+        "2-海馆-13-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-14-3",
+      "group": null,
+      "minute": 67,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "2-海馆-14-2",
+        "2-海馆-13-2"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-14-4",
+      "group": null,
+      "minute": 74,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "2-海馆-14-3",
+        "2-海馆-13-3"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-15-0",
+      "group": "2-海馆-15",
+      "minute": 47,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-15-1",
+      "group": "2-海馆-15",
+      "minute": 54,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "2-海馆-15-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "visit": "2-海馆-15-2",
+      "group": "2-海馆-15",
+      "minute": 61,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "2-海馆-15-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-0-0",
+      "group": "3-海馆-0",
+      "minute": 14,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-0-1",
+      "group": "3-海馆-0",
+      "minute": 21,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "3-海馆-0-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-0-2",
+      "group": "3-海馆-0",
+      "minute": 28,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "3-海馆-0-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-0-3",
+      "group": "3-海馆-0",
+      "minute": 35,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "3-海馆-0-2"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-0-4",
+      "group": "3-海馆-0",
+      "minute": 42,
+      "people": 1,
+      "seen_area": "青厅",
+      "candidate": [
+        "3-海馆-0-3"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-1-0",
+      "group": "3-海馆-1",
+      "minute": 15,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-1-1",
+      "group": null,
+      "minute": 22,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "3-海馆-1-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-1-2",
+      "group": null,
+      "minute": 29,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "3-海馆-1-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-2-0",
+      "group": "3-海馆-2",
+      "minute": 16,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-2-1",
+      "group": null,
+      "minute": 23,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "3-海馆-2-0",
+        "3-海馆-1-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-2-2",
+      "group": null,
+      "minute": 30,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "3-海馆-2-1",
+        "3-海馆-1-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-3-0",
+      "group": "3-海馆-3",
+      "minute": 17,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-3-1",
+      "group": null,
+      "minute": 24,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "3-海馆-3-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-4-0",
+      "group": "3-海馆-4",
+      "minute": 24,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-4-2",
+      "group": null,
+      "minute": 38,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "3-海馆-4-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-5-0",
+      "group": "3-海馆-5",
+      "minute": 25,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-5-1",
+      "group": "3-海馆-5",
+      "minute": 32,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "3-海馆-5-0",
+        "3-海馆-4-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-5-2",
+      "group": "3-海馆-5",
+      "minute": 39,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "3-海馆-5-1",
+        "3-海馆-4-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-6-0",
+      "group": "3-海馆-6",
+      "minute": 26,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-6-1",
+      "group": null,
+      "minute": 33,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "3-海馆-6-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-6-2",
+      "group": null,
+      "minute": 40,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "3-海馆-6-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-7-0",
+      "group": "3-海馆-7",
+      "minute": 27,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-7-1",
+      "group": null,
+      "minute": 34,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "3-海馆-7-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-7-2",
+      "group": null,
+      "minute": 41,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "3-海馆-7-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-7-3",
+      "group": null,
+      "minute": 48,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "3-海馆-7-2"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-7-4",
+      "group": null,
+      "minute": 55,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "3-海馆-7-3"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-8-0",
+      "group": "3-海馆-8",
+      "minute": 34,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-8-1",
+      "group": null,
+      "minute": 41,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "3-海馆-8-0",
+        "3-海馆-7-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-8-2",
+      "group": null,
+      "minute": 48,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "3-海馆-8-1",
+        "3-海馆-7-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-9-0",
+      "group": "3-海馆-9",
+      "minute": 35,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-9-1",
+      "group": null,
+      "minute": 42,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "3-海馆-9-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-9-2",
+      "group": null,
+      "minute": 49,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "3-海馆-9-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-10-0",
+      "group": "3-海馆-10",
+      "minute": 36,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-10-1",
+      "group": "3-海馆-10",
+      "minute": 43,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "3-海馆-10-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-10-2",
+      "group": "3-海馆-10",
+      "minute": 50,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "3-海馆-10-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-11-0",
+      "group": "3-海馆-11",
+      "minute": 37,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-11-1",
+      "group": null,
+      "minute": 44,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "3-海馆-11-0",
+        "3-海馆-10-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-12-0",
+      "group": "3-海馆-12",
+      "minute": 44,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-12-2",
+      "group": null,
+      "minute": 58,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "3-海馆-12-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-13-0",
+      "group": "3-海馆-13",
+      "minute": 45,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-13-1",
+      "group": null,
+      "minute": 52,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "3-海馆-13-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-13-2",
+      "group": null,
+      "minute": 59,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "3-海馆-13-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-14-0",
+      "group": "3-海馆-14",
+      "minute": 46,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-14-1",
+      "group": null,
+      "minute": 53,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "3-海馆-14-0",
+        "3-海馆-13-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-14-2",
+      "group": null,
+      "minute": 60,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "3-海馆-14-1",
+        "3-海馆-13-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-14-3",
+      "group": null,
+      "minute": 67,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "3-海馆-14-2",
+        "3-海馆-13-2"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-14-4",
+      "group": null,
+      "minute": 74,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "3-海馆-14-3",
+        "3-海馆-13-3"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-15-0",
+      "group": "3-海馆-15",
+      "minute": 47,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-15-1",
+      "group": "3-海馆-15",
+      "minute": 54,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "3-海馆-15-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "visit": "3-海馆-15-2",
+      "group": "3-海馆-15",
+      "minute": 61,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "3-海馆-15-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-0-0",
+      "group": "4-海馆-0",
+      "minute": 14,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-0-1",
+      "group": "4-海馆-0",
+      "minute": 21,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "4-海馆-0-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-0-2",
+      "group": "4-海馆-0",
+      "minute": 28,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "4-海馆-0-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-0-3",
+      "group": "4-海馆-0",
+      "minute": 35,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "4-海馆-0-2"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-1-0",
+      "group": "4-海馆-1",
+      "minute": 15,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-1-1",
+      "group": null,
+      "minute": 22,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "4-海馆-1-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-1-2",
+      "group": null,
+      "minute": 29,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "4-海馆-1-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-2-0",
+      "group": "4-海馆-2",
+      "minute": 16,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-2-1",
+      "group": null,
+      "minute": 23,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "4-海馆-2-0",
+        "4-海馆-1-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-3-0",
+      "group": "4-海馆-3",
+      "minute": 17,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-3-2",
+      "group": null,
+      "minute": 31,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "4-海馆-3-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-4-0",
+      "group": "4-海馆-4",
+      "minute": 24,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-4-1",
+      "group": null,
+      "minute": 31,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "4-海馆-4-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-4-2",
+      "group": null,
+      "minute": 38,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "4-海馆-4-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-5-0",
+      "group": "4-海馆-5",
+      "minute": 25,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-5-1",
+      "group": "4-海馆-5",
+      "minute": 32,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "4-海馆-5-0",
+        "4-海馆-4-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-5-2",
+      "group": "4-海馆-5",
+      "minute": 39,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "4-海馆-5-1",
+        "4-海馆-4-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-6-0",
+      "group": "4-海馆-6",
+      "minute": 26,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-6-1",
+      "group": null,
+      "minute": 33,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "4-海馆-6-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-6-2",
+      "group": null,
+      "minute": 40,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "4-海馆-6-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-7-0",
+      "group": "4-海馆-7",
+      "minute": 27,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-7-1",
+      "group": null,
+      "minute": 34,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "4-海馆-7-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-7-2",
+      "group": null,
+      "minute": 41,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "4-海馆-7-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-7-3",
+      "group": null,
+      "minute": 48,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "4-海馆-7-2"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-7-4",
+      "group": null,
+      "minute": 55,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "4-海馆-7-3"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-8-0",
+      "group": "4-海馆-8",
+      "minute": 34,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-8-1",
+      "group": null,
+      "minute": 41,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "4-海馆-8-0",
+        "4-海馆-7-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-8-2",
+      "group": null,
+      "minute": 48,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "4-海馆-8-1",
+        "4-海馆-7-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-9-0",
+      "group": "4-海馆-9",
+      "minute": 35,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-9-1",
+      "group": null,
+      "minute": 42,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "4-海馆-9-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-9-2",
+      "group": null,
+      "minute": 49,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "4-海馆-9-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-10-0",
+      "group": "4-海馆-10",
+      "minute": 36,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-10-1",
+      "group": "4-海馆-10",
+      "minute": 43,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "4-海馆-10-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-11-0",
+      "group": "4-海馆-11",
+      "minute": 37,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-11-2",
+      "group": null,
+      "minute": 51,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "4-海馆-11-1",
+        "4-海馆-10-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-12-0",
+      "group": "4-海馆-12",
+      "minute": 44,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-12-1",
+      "group": null,
+      "minute": 51,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "4-海馆-12-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-12-2",
+      "group": null,
+      "minute": 58,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "4-海馆-12-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-13-0",
+      "group": "4-海馆-13",
+      "minute": 45,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-13-1",
+      "group": null,
+      "minute": 52,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "4-海馆-13-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-13-2",
+      "group": null,
+      "minute": 59,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "4-海馆-13-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-14-0",
+      "group": "4-海馆-14",
+      "minute": 46,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-14-1",
+      "group": null,
+      "minute": 53,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "4-海馆-14-0",
+        "4-海馆-13-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-14-2",
+      "group": null,
+      "minute": 60,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "4-海馆-14-1",
+        "4-海馆-13-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-14-3",
+      "group": null,
+      "minute": 67,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "4-海馆-14-2",
+        "4-海馆-13-2"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-14-4",
+      "group": null,
+      "minute": 74,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "4-海馆-14-3",
+        "4-海馆-13-3"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-15-0",
+      "group": "4-海馆-15",
+      "minute": 47,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-15-1",
+      "group": "4-海馆-15",
+      "minute": 54,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "4-海馆-15-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "visit": "4-海馆-15-2",
+      "group": "4-海馆-15",
+      "minute": 61,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "4-海馆-15-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-0-0",
+      "group": "5-海馆-0",
+      "minute": 14,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-0-1",
+      "group": "5-海馆-0",
+      "minute": 21,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "5-海馆-0-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-0-2",
+      "group": "5-海馆-0",
+      "minute": 28,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "5-海馆-0-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-0-4",
+      "group": "5-海馆-0",
+      "minute": 42,
+      "people": 1,
+      "seen_area": "青厅",
+      "candidate": [
+        "5-海馆-0-3"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-1-0",
+      "group": "5-海馆-1",
+      "minute": 15,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-1-1",
+      "group": null,
+      "minute": 22,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "5-海馆-1-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-2-0",
+      "group": "5-海馆-2",
+      "minute": 16,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-2-2",
+      "group": null,
+      "minute": 30,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "5-海馆-2-1",
+        "5-海馆-1-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-3-0",
+      "group": "5-海馆-3",
+      "minute": 17,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-3-1",
+      "group": null,
+      "minute": 24,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "5-海馆-3-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-3-2",
+      "group": null,
+      "minute": 31,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "5-海馆-3-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-4-0",
+      "group": "5-海馆-4",
+      "minute": 24,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-4-1",
+      "group": null,
+      "minute": 31,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "5-海馆-4-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-4-2",
+      "group": null,
+      "minute": 38,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "5-海馆-4-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-5-0",
+      "group": "5-海馆-5",
+      "minute": 25,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-5-1",
+      "group": "5-海馆-5",
+      "minute": 32,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "5-海馆-5-0",
+        "5-海馆-4-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-5-2",
+      "group": "5-海馆-5",
+      "minute": 39,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "5-海馆-5-1",
+        "5-海馆-4-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-6-0",
+      "group": "5-海馆-6",
+      "minute": 26,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-6-1",
+      "group": null,
+      "minute": 33,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "5-海馆-6-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-6-2",
+      "group": null,
+      "minute": 40,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "5-海馆-6-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-7-0",
+      "group": "5-海馆-7",
+      "minute": 27,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-7-1",
+      "group": null,
+      "minute": 34,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "5-海馆-7-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-7-2",
+      "group": null,
+      "minute": 41,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "5-海馆-7-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-7-3",
+      "group": null,
+      "minute": 48,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "5-海馆-7-2"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-8-0",
+      "group": "5-海馆-8",
+      "minute": 34,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-8-1",
+      "group": null,
+      "minute": 41,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "5-海馆-8-0",
+        "5-海馆-7-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-8-2",
+      "group": null,
+      "minute": 48,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "5-海馆-8-1",
+        "5-海馆-7-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-9-0",
+      "group": "5-海馆-9",
+      "minute": 35,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-9-1",
+      "group": null,
+      "minute": 42,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "5-海馆-9-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-10-0",
+      "group": "5-海馆-10",
+      "minute": 36,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-10-2",
+      "group": "5-海馆-10",
+      "minute": 50,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "5-海馆-10-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-11-0",
+      "group": "5-海馆-11",
+      "minute": 37,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-11-1",
+      "group": null,
+      "minute": 44,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "5-海馆-11-0",
+        "5-海馆-10-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-11-2",
+      "group": null,
+      "minute": 51,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "5-海馆-11-1",
+        "5-海馆-10-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-12-0",
+      "group": "5-海馆-12",
+      "minute": 44,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-12-1",
+      "group": null,
+      "minute": 51,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "5-海馆-12-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-12-2",
+      "group": null,
+      "minute": 58,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "5-海馆-12-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-13-0",
+      "group": "5-海馆-13",
+      "minute": 45,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-13-1",
+      "group": null,
+      "minute": 52,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "5-海馆-13-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-13-2",
+      "group": null,
+      "minute": 59,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "5-海馆-13-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-14-0",
+      "group": "5-海馆-14",
+      "minute": 46,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-14-1",
+      "group": null,
+      "minute": 53,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "5-海馆-14-0",
+        "5-海馆-13-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-14-2",
+      "group": null,
+      "minute": 60,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "5-海馆-14-1",
+        "5-海馆-13-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-14-3",
+      "group": null,
+      "minute": 67,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "5-海馆-14-2",
+        "5-海馆-13-2"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-14-4",
+      "group": null,
+      "minute": 74,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "5-海馆-14-3",
+        "5-海馆-13-3"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-15-0",
+      "group": "5-海馆-15",
+      "minute": 47,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-15-1",
+      "group": "5-海馆-15",
+      "minute": 54,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "5-海馆-15-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "visit": "5-海馆-15-2",
+      "group": "5-海馆-15",
+      "minute": 61,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "5-海馆-15-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-0-0",
+      "group": "6-海馆-0",
+      "minute": 14,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-0-1",
+      "group": "6-海馆-0",
+      "minute": 21,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "6-海馆-0-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-0-3",
+      "group": "6-海馆-0",
+      "minute": 35,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "6-海馆-0-2"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-0-4",
+      "group": "6-海馆-0",
+      "minute": 42,
+      "people": 1,
+      "seen_area": "青厅",
+      "candidate": [
+        "6-海馆-0-3"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-1-0",
+      "group": "6-海馆-1",
+      "minute": 15,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-1-2",
+      "group": null,
+      "minute": 29,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "6-海馆-1-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-2-0",
+      "group": "6-海馆-2",
+      "minute": 16,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-2-1",
+      "group": null,
+      "minute": 23,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "6-海馆-2-0",
+        "6-海馆-1-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-2-2",
+      "group": null,
+      "minute": 30,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "6-海馆-2-1",
+        "6-海馆-1-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-3-0",
+      "group": "6-海馆-3",
+      "minute": 17,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-3-1",
+      "group": null,
+      "minute": 24,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "6-海馆-3-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-3-2",
+      "group": null,
+      "minute": 31,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "6-海馆-3-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-4-0",
+      "group": "6-海馆-4",
+      "minute": 24,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-4-1",
+      "group": null,
+      "minute": 31,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "6-海馆-4-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-4-2",
+      "group": null,
+      "minute": 38,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "6-海馆-4-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-5-0",
+      "group": "6-海馆-5",
+      "minute": 25,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-5-1",
+      "group": "6-海馆-5",
+      "minute": 32,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "6-海馆-5-0",
+        "6-海馆-4-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-5-2",
+      "group": "6-海馆-5",
+      "minute": 39,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "6-海馆-5-1",
+        "6-海馆-4-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-6-0",
+      "group": "6-海馆-6",
+      "minute": 26,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-6-1",
+      "group": null,
+      "minute": 33,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "6-海馆-6-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-6-2",
+      "group": null,
+      "minute": 40,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "6-海馆-6-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-7-0",
+      "group": "6-海馆-7",
+      "minute": 27,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-7-1",
+      "group": null,
+      "minute": 34,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "6-海馆-7-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-7-2",
+      "group": null,
+      "minute": 41,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "6-海馆-7-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-7-4",
+      "group": null,
+      "minute": 55,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "6-海馆-7-3"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-8-0",
+      "group": "6-海馆-8",
+      "minute": 34,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-8-1",
+      "group": null,
+      "minute": 41,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "6-海馆-8-0",
+        "6-海馆-7-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-9-0",
+      "group": "6-海馆-9",
+      "minute": 35,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-9-2",
+      "group": null,
+      "minute": 49,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "6-海馆-9-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-10-0",
+      "group": "6-海馆-10",
+      "minute": 36,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-10-1",
+      "group": "6-海馆-10",
+      "minute": 43,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "6-海馆-10-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-10-2",
+      "group": "6-海馆-10",
+      "minute": 50,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "6-海馆-10-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-11-0",
+      "group": "6-海馆-11",
+      "minute": 37,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-11-1",
+      "group": null,
+      "minute": 44,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "6-海馆-11-0",
+        "6-海馆-10-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-11-2",
+      "group": null,
+      "minute": 51,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "6-海馆-11-1",
+        "6-海馆-10-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-12-0",
+      "group": "6-海馆-12",
+      "minute": 44,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-12-1",
+      "group": null,
+      "minute": 51,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "6-海馆-12-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-12-2",
+      "group": null,
+      "minute": 58,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "6-海馆-12-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-13-0",
+      "group": "6-海馆-13",
+      "minute": 45,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-13-1",
+      "group": null,
+      "minute": 52,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "6-海馆-13-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-13-2",
+      "group": null,
+      "minute": 59,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "6-海馆-13-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-14-0",
+      "group": "6-海馆-14",
+      "minute": 46,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-14-1",
+      "group": null,
+      "minute": 53,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "6-海馆-14-0",
+        "6-海馆-13-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-14-2",
+      "group": null,
+      "minute": 60,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "6-海馆-14-1",
+        "6-海馆-13-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-14-3",
+      "group": null,
+      "minute": 67,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "6-海馆-14-2",
+        "6-海馆-13-2"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-15-0",
+      "group": "6-海馆-15",
+      "minute": 47,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-15-1",
+      "group": "6-海馆-15",
+      "minute": 54,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "6-海馆-15-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "visit": "6-海馆-15-2",
+      "group": "6-海馆-15",
+      "minute": 61,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "6-海馆-15-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-0-0",
+      "group": "1-河馆-0",
+      "minute": 14,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-0-1",
+      "group": "1-河馆-0",
+      "minute": 21,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "1-河馆-0-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-0-2",
+      "group": "1-河馆-0",
+      "minute": 28,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "1-河馆-0-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-1-0",
+      "group": "1-河馆-1",
+      "minute": 15,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-1-1",
+      "group": null,
+      "minute": 22,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "1-河馆-1-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-1-2",
+      "group": null,
+      "minute": 29,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "1-河馆-1-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-2-0",
+      "group": "1-河馆-2",
+      "minute": 16,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-2-1",
+      "group": null,
+      "minute": 23,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "1-河馆-2-0",
+        "1-河馆-1-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-2-2",
+      "group": null,
+      "minute": 30,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "1-河馆-2-1",
+        "1-河馆-1-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-3-0",
+      "group": "1-河馆-3",
+      "minute": 17,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-3-1",
+      "group": null,
+      "minute": 24,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "1-河馆-3-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-3-2",
+      "group": null,
+      "minute": 31,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "1-河馆-3-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-4-0",
+      "group": "1-河馆-4",
+      "minute": 24,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-4-1",
+      "group": null,
+      "minute": 31,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "1-河馆-4-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-4-2",
+      "group": null,
+      "minute": 38,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "1-河馆-4-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-5-0",
+      "group": "1-河馆-5",
+      "minute": 25,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-5-1",
+      "group": "1-河馆-5",
+      "minute": 32,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "1-河馆-5-0",
+        "1-河馆-4-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-6-0",
+      "group": "1-河馆-6",
+      "minute": 26,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-6-2",
+      "group": null,
+      "minute": 40,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "1-河馆-6-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-7-0",
+      "group": "1-河馆-7",
+      "minute": 27,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-7-1",
+      "group": null,
+      "minute": 34,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "1-河馆-7-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-7-2",
+      "group": null,
+      "minute": 41,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "1-河馆-7-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-8-0",
+      "group": "1-河馆-8",
+      "minute": 34,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-8-1",
+      "group": null,
+      "minute": 41,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "1-河馆-8-0",
+        "1-河馆-7-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-8-2",
+      "group": null,
+      "minute": 48,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "1-河馆-8-1",
+        "1-河馆-7-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-9-0",
+      "group": "1-河馆-9",
+      "minute": 35,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-9-1",
+      "group": null,
+      "minute": 42,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "1-河馆-9-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-9-2",
+      "group": null,
+      "minute": 49,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "1-河馆-9-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-10-0",
+      "group": "1-河馆-10",
+      "minute": 36,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-10-1",
+      "group": "1-河馆-10",
+      "minute": 43,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "1-河馆-10-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-10-2",
+      "group": "1-河馆-10",
+      "minute": 50,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "1-河馆-10-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-11-0",
+      "group": "1-河馆-11",
+      "minute": 37,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-11-1",
+      "group": null,
+      "minute": 44,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "1-河馆-11-0",
+        "1-河馆-10-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-11-2",
+      "group": null,
+      "minute": 51,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "1-河馆-11-1",
+        "1-河馆-10-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-12-0",
+      "group": "1-河馆-12",
+      "minute": 44,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-12-1",
+      "group": null,
+      "minute": 51,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "1-河馆-12-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-12-2",
+      "group": null,
+      "minute": 58,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "1-河馆-12-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-13-0",
+      "group": "1-河馆-13",
+      "minute": 45,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-13-1",
+      "group": null,
+      "minute": 52,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "1-河馆-13-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-14-0",
+      "group": "1-河馆-14",
+      "minute": 46,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-14-2",
+      "group": null,
+      "minute": 60,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "1-河馆-14-1",
+        "1-河馆-13-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-15-0",
+      "group": "1-河馆-15",
+      "minute": 47,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-15-1",
+      "group": "1-河馆-15",
+      "minute": 54,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "1-河馆-15-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "visit": "1-河馆-15-2",
+      "group": "1-河馆-15",
+      "minute": 61,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "1-河馆-15-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-0-0",
+      "group": "2-河馆-0",
+      "minute": 14,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-0-1",
+      "group": "2-河馆-0",
+      "minute": 21,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "2-河馆-0-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-0-2",
+      "group": "2-河馆-0",
+      "minute": 28,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "2-河馆-0-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-1-0",
+      "group": "2-河馆-1",
+      "minute": 15,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-1-1",
+      "group": null,
+      "minute": 22,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "2-河馆-1-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-1-2",
+      "group": null,
+      "minute": 29,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "2-河馆-1-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-2-0",
+      "group": "2-河馆-2",
+      "minute": 16,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-2-1",
+      "group": null,
+      "minute": 23,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "2-河馆-2-0",
+        "2-河馆-1-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-2-2",
+      "group": null,
+      "minute": 30,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "2-河馆-2-1",
+        "2-河馆-1-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-3-0",
+      "group": "2-河馆-3",
+      "minute": 17,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-3-1",
+      "group": null,
+      "minute": 24,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "2-河馆-3-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-3-2",
+      "group": null,
+      "minute": 31,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "2-河馆-3-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-4-0",
+      "group": "2-河馆-4",
+      "minute": 24,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-4-1",
+      "group": null,
+      "minute": 31,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "2-河馆-4-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-5-0",
+      "group": "2-河馆-5",
+      "minute": 25,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-5-2",
+      "group": "2-河馆-5",
+      "minute": 39,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "2-河馆-5-1",
+        "2-河馆-4-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-6-0",
+      "group": "2-河馆-6",
+      "minute": 26,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-6-1",
+      "group": null,
+      "minute": 33,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "2-河馆-6-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-6-2",
+      "group": null,
+      "minute": 40,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "2-河馆-6-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-7-0",
+      "group": "2-河馆-7",
+      "minute": 27,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-7-1",
+      "group": null,
+      "minute": 34,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "2-河馆-7-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-7-2",
+      "group": null,
+      "minute": 41,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "2-河馆-7-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-8-0",
+      "group": "2-河馆-8",
+      "minute": 34,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-8-1",
+      "group": null,
+      "minute": 41,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "2-河馆-8-0",
+        "2-河馆-7-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-8-2",
+      "group": null,
+      "minute": 48,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "2-河馆-8-1",
+        "2-河馆-7-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-9-0",
+      "group": "2-河馆-9",
+      "minute": 35,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-9-1",
+      "group": null,
+      "minute": 42,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "2-河馆-9-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-9-2",
+      "group": null,
+      "minute": 49,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "2-河馆-9-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-10-0",
+      "group": "2-河馆-10",
+      "minute": 36,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-10-1",
+      "group": "2-河馆-10",
+      "minute": 43,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "2-河馆-10-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-10-2",
+      "group": "2-河馆-10",
+      "minute": 50,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "2-河馆-10-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-11-0",
+      "group": "2-河馆-11",
+      "minute": 37,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-11-1",
+      "group": null,
+      "minute": 44,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "2-河馆-11-0",
+        "2-河馆-10-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-11-2",
+      "group": null,
+      "minute": 51,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "2-河馆-11-1",
+        "2-河馆-10-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-12-0",
+      "group": "2-河馆-12",
+      "minute": 44,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-12-1",
+      "group": null,
+      "minute": 51,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "2-河馆-12-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-13-0",
+      "group": "2-河馆-13",
+      "minute": 45,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-13-2",
+      "group": null,
+      "minute": 59,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "2-河馆-13-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-14-0",
+      "group": "2-河馆-14",
+      "minute": 46,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-14-1",
+      "group": null,
+      "minute": 53,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "2-河馆-14-0",
+        "2-河馆-13-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-14-2",
+      "group": null,
+      "minute": 60,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "2-河馆-14-1",
+        "2-河馆-13-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-15-0",
+      "group": "2-河馆-15",
+      "minute": 47,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-15-1",
+      "group": "2-河馆-15",
+      "minute": 54,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "2-河馆-15-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "visit": "2-河馆-15-2",
+      "group": "2-河馆-15",
+      "minute": 61,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "2-河馆-15-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-0-0",
+      "group": "3-河馆-0",
+      "minute": 14,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-0-1",
+      "group": "3-河馆-0",
+      "minute": 21,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "3-河馆-0-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-0-2",
+      "group": "3-河馆-0",
+      "minute": 28,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "3-河馆-0-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-1-0",
+      "group": "3-河馆-1",
+      "minute": 15,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-1-1",
+      "group": null,
+      "minute": 22,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "3-河馆-1-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-1-2",
+      "group": null,
+      "minute": 29,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "3-河馆-1-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-2-0",
+      "group": "3-河馆-2",
+      "minute": 16,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-2-1",
+      "group": null,
+      "minute": 23,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "3-河馆-2-0",
+        "3-河馆-1-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-2-2",
+      "group": null,
+      "minute": 30,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "3-河馆-2-1",
+        "3-河馆-1-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-3-0",
+      "group": "3-河馆-3",
+      "minute": 17,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-3-1",
+      "group": null,
+      "minute": 24,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "3-河馆-3-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-4-0",
+      "group": "3-河馆-4",
+      "minute": 24,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-4-2",
+      "group": null,
+      "minute": 38,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "3-河馆-4-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-5-0",
+      "group": "3-河馆-5",
+      "minute": 25,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-5-1",
+      "group": "3-河馆-5",
+      "minute": 32,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "3-河馆-5-0",
+        "3-河馆-4-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-5-2",
+      "group": "3-河馆-5",
+      "minute": 39,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "3-河馆-5-1",
+        "3-河馆-4-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-6-0",
+      "group": "3-河馆-6",
+      "minute": 26,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-6-1",
+      "group": null,
+      "minute": 33,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "3-河馆-6-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-6-2",
+      "group": null,
+      "minute": 40,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "3-河馆-6-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-7-0",
+      "group": "3-河馆-7",
+      "minute": 27,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-7-1",
+      "group": null,
+      "minute": 34,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "3-河馆-7-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-7-2",
+      "group": null,
+      "minute": 41,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "3-河馆-7-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-8-0",
+      "group": "3-河馆-8",
+      "minute": 34,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-8-1",
+      "group": null,
+      "minute": 41,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "3-河馆-8-0",
+        "3-河馆-7-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-8-2",
+      "group": null,
+      "minute": 48,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "3-河馆-8-1",
+        "3-河馆-7-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-9-0",
+      "group": "3-河馆-9",
+      "minute": 35,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-9-1",
+      "group": null,
+      "minute": 42,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "3-河馆-9-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-9-2",
+      "group": null,
+      "minute": 49,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "3-河馆-9-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-10-0",
+      "group": "3-河馆-10",
+      "minute": 36,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-10-1",
+      "group": "3-河馆-10",
+      "minute": 43,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "3-河馆-10-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-10-2",
+      "group": "3-河馆-10",
+      "minute": 50,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "3-河馆-10-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-11-0",
+      "group": "3-河馆-11",
+      "minute": 37,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-11-1",
+      "group": null,
+      "minute": 44,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "3-河馆-11-0",
+        "3-河馆-10-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-12-0",
+      "group": "3-河馆-12",
+      "minute": 44,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-12-2",
+      "group": null,
+      "minute": 58,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "3-河馆-12-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-13-0",
+      "group": "3-河馆-13",
+      "minute": 45,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-13-1",
+      "group": null,
+      "minute": 52,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "3-河馆-13-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-13-2",
+      "group": null,
+      "minute": 59,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "3-河馆-13-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-14-0",
+      "group": "3-河馆-14",
+      "minute": 46,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-14-1",
+      "group": null,
+      "minute": 53,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "3-河馆-14-0",
+        "3-河馆-13-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-14-2",
+      "group": null,
+      "minute": 60,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "3-河馆-14-1",
+        "3-河馆-13-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-15-0",
+      "group": "3-河馆-15",
+      "minute": 47,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-15-1",
+      "group": "3-河馆-15",
+      "minute": 54,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "3-河馆-15-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "visit": "3-河馆-15-2",
+      "group": "3-河馆-15",
+      "minute": 61,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "3-河馆-15-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-0-0",
+      "group": "4-河馆-0",
+      "minute": 14,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-0-1",
+      "group": "4-河馆-0",
+      "minute": 21,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "4-河馆-0-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-0-2",
+      "group": "4-河馆-0",
+      "minute": 28,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "4-河馆-0-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-1-0",
+      "group": "4-河馆-1",
+      "minute": 15,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-1-1",
+      "group": null,
+      "minute": 22,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "4-河馆-1-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-1-2",
+      "group": null,
+      "minute": 29,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "4-河馆-1-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-2-0",
+      "group": "4-河馆-2",
+      "minute": 16,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-2-1",
+      "group": null,
+      "minute": 23,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "4-河馆-2-0",
+        "4-河馆-1-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-3-0",
+      "group": "4-河馆-3",
+      "minute": 17,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-3-2",
+      "group": null,
+      "minute": 31,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "4-河馆-3-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-4-0",
+      "group": "4-河馆-4",
+      "minute": 24,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-4-1",
+      "group": null,
+      "minute": 31,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "4-河馆-4-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-4-2",
+      "group": null,
+      "minute": 38,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "4-河馆-4-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-5-0",
+      "group": "4-河馆-5",
+      "minute": 25,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-5-1",
+      "group": "4-河馆-5",
+      "minute": 32,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "4-河馆-5-0",
+        "4-河馆-4-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-5-2",
+      "group": "4-河馆-5",
+      "minute": 39,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "4-河馆-5-1",
+        "4-河馆-4-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-6-0",
+      "group": "4-河馆-6",
+      "minute": 26,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-6-1",
+      "group": null,
+      "minute": 33,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "4-河馆-6-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-6-2",
+      "group": null,
+      "minute": 40,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "4-河馆-6-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-7-0",
+      "group": "4-河馆-7",
+      "minute": 27,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-7-1",
+      "group": null,
+      "minute": 34,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "4-河馆-7-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-7-2",
+      "group": null,
+      "minute": 41,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "4-河馆-7-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-8-0",
+      "group": "4-河馆-8",
+      "minute": 34,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-8-1",
+      "group": null,
+      "minute": 41,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "4-河馆-8-0",
+        "4-河馆-7-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-8-2",
+      "group": null,
+      "minute": 48,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "4-河馆-8-1",
+        "4-河馆-7-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-9-0",
+      "group": "4-河馆-9",
+      "minute": 35,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-9-1",
+      "group": null,
+      "minute": 42,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "4-河馆-9-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-9-2",
+      "group": null,
+      "minute": 49,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "4-河馆-9-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-10-0",
+      "group": "4-河馆-10",
+      "minute": 36,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-10-1",
+      "group": "4-河馆-10",
+      "minute": 43,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "4-河馆-10-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-11-0",
+      "group": "4-河馆-11",
+      "minute": 37,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-11-2",
+      "group": null,
+      "minute": 51,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "4-河馆-11-1",
+        "4-河馆-10-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-12-0",
+      "group": "4-河馆-12",
+      "minute": 44,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-12-1",
+      "group": null,
+      "minute": 51,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "4-河馆-12-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-12-2",
+      "group": null,
+      "minute": 58,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "4-河馆-12-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-13-0",
+      "group": "4-河馆-13",
+      "minute": 45,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-13-1",
+      "group": null,
+      "minute": 52,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "4-河馆-13-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-13-2",
+      "group": null,
+      "minute": 59,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "4-河馆-13-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-14-0",
+      "group": "4-河馆-14",
+      "minute": 46,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-14-1",
+      "group": null,
+      "minute": 53,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "4-河馆-14-0",
+        "4-河馆-13-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-14-2",
+      "group": null,
+      "minute": 60,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "4-河馆-14-1",
+        "4-河馆-13-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-15-0",
+      "group": "4-河馆-15",
+      "minute": 47,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-15-1",
+      "group": "4-河馆-15",
+      "minute": 54,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "4-河馆-15-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "visit": "4-河馆-15-2",
+      "group": "4-河馆-15",
+      "minute": 61,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "4-河馆-15-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-0-0",
+      "group": "5-河馆-0",
+      "minute": 14,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-0-1",
+      "group": "5-河馆-0",
+      "minute": 21,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "5-河馆-0-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-0-2",
+      "group": "5-河馆-0",
+      "minute": 28,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "5-河馆-0-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-1-0",
+      "group": "5-河馆-1",
+      "minute": 15,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-1-1",
+      "group": null,
+      "minute": 22,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "5-河馆-1-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-2-0",
+      "group": "5-河馆-2",
+      "minute": 16,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-2-2",
+      "group": null,
+      "minute": 30,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "5-河馆-2-1",
+        "5-河馆-1-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-3-0",
+      "group": "5-河馆-3",
+      "minute": 17,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-3-1",
+      "group": null,
+      "minute": 24,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "5-河馆-3-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-3-2",
+      "group": null,
+      "minute": 31,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "5-河馆-3-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-4-0",
+      "group": "5-河馆-4",
+      "minute": 24,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-4-1",
+      "group": null,
+      "minute": 31,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "5-河馆-4-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-4-2",
+      "group": null,
+      "minute": 38,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "5-河馆-4-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-5-0",
+      "group": "5-河馆-5",
+      "minute": 25,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-5-1",
+      "group": "5-河馆-5",
+      "minute": 32,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "5-河馆-5-0",
+        "5-河馆-4-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-5-2",
+      "group": "5-河馆-5",
+      "minute": 39,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "5-河馆-5-1",
+        "5-河馆-4-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-6-0",
+      "group": "5-河馆-6",
+      "minute": 26,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-6-1",
+      "group": null,
+      "minute": 33,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "5-河馆-6-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-6-2",
+      "group": null,
+      "minute": 40,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "5-河馆-6-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-7-0",
+      "group": "5-河馆-7",
+      "minute": 27,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-7-1",
+      "group": null,
+      "minute": 34,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "5-河馆-7-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-7-2",
+      "group": null,
+      "minute": 41,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "5-河馆-7-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-8-0",
+      "group": "5-河馆-8",
+      "minute": 34,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-8-1",
+      "group": null,
+      "minute": 41,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "5-河馆-8-0",
+        "5-河馆-7-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-8-2",
+      "group": null,
+      "minute": 48,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "5-河馆-8-1",
+        "5-河馆-7-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-9-0",
+      "group": "5-河馆-9",
+      "minute": 35,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-9-1",
+      "group": null,
+      "minute": 42,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "5-河馆-9-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-10-0",
+      "group": "5-河馆-10",
+      "minute": 36,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-10-2",
+      "group": "5-河馆-10",
+      "minute": 50,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "5-河馆-10-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-11-0",
+      "group": "5-河馆-11",
+      "minute": 37,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-11-1",
+      "group": null,
+      "minute": 44,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "5-河馆-11-0",
+        "5-河馆-10-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-11-2",
+      "group": null,
+      "minute": 51,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "5-河馆-11-1",
+        "5-河馆-10-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-12-0",
+      "group": "5-河馆-12",
+      "minute": 44,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-12-1",
+      "group": null,
+      "minute": 51,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "5-河馆-12-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-12-2",
+      "group": null,
+      "minute": 58,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "5-河馆-12-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-13-0",
+      "group": "5-河馆-13",
+      "minute": 45,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-13-1",
+      "group": null,
+      "minute": 52,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "5-河馆-13-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-13-2",
+      "group": null,
+      "minute": 59,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "5-河馆-13-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-14-0",
+      "group": "5-河馆-14",
+      "minute": 46,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-14-1",
+      "group": null,
+      "minute": 53,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "5-河馆-14-0",
+        "5-河馆-13-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-14-2",
+      "group": null,
+      "minute": 60,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "5-河馆-14-1",
+        "5-河馆-13-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-15-0",
+      "group": "5-河馆-15",
+      "minute": 47,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-15-1",
+      "group": "5-河馆-15",
+      "minute": 54,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "5-河馆-15-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "visit": "5-河馆-15-2",
+      "group": "5-河馆-15",
+      "minute": 61,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "5-河馆-15-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-0-0",
+      "group": "6-河馆-0",
+      "minute": 14,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-0-1",
+      "group": "6-河馆-0",
+      "minute": 21,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "6-河馆-0-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-1-0",
+      "group": "6-河馆-1",
+      "minute": 15,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-1-2",
+      "group": null,
+      "minute": 29,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "6-河馆-1-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-2-0",
+      "group": "6-河馆-2",
+      "minute": 16,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-2-1",
+      "group": null,
+      "minute": 23,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "6-河馆-2-0",
+        "6-河馆-1-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-2-2",
+      "group": null,
+      "minute": 30,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "6-河馆-2-1",
+        "6-河馆-1-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-3-0",
+      "group": "6-河馆-3",
+      "minute": 17,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-3-1",
+      "group": null,
+      "minute": 24,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "6-河馆-3-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-3-2",
+      "group": null,
+      "minute": 31,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "6-河馆-3-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-4-0",
+      "group": "6-河馆-4",
+      "minute": 24,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-4-1",
+      "group": null,
+      "minute": 31,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "6-河馆-4-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-4-2",
+      "group": null,
+      "minute": 38,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "6-河馆-4-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-5-0",
+      "group": "6-河馆-5",
+      "minute": 25,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-5-1",
+      "group": "6-河馆-5",
+      "minute": 32,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "6-河馆-5-0",
+        "6-河馆-4-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-5-2",
+      "group": "6-河馆-5",
+      "minute": 39,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "6-河馆-5-1",
+        "6-河馆-4-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-6-0",
+      "group": "6-河馆-6",
+      "minute": 26,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-6-1",
+      "group": null,
+      "minute": 33,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "6-河馆-6-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-6-2",
+      "group": null,
+      "minute": 40,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "6-河馆-6-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-7-0",
+      "group": "6-河馆-7",
+      "minute": 27,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-7-1",
+      "group": null,
+      "minute": 34,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "6-河馆-7-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-7-2",
+      "group": null,
+      "minute": 41,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "6-河馆-7-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-8-0",
+      "group": "6-河馆-8",
+      "minute": 34,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-8-1",
+      "group": null,
+      "minute": 41,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "6-河馆-8-0",
+        "6-河馆-7-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-9-0",
+      "group": "6-河馆-9",
+      "minute": 35,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-9-2",
+      "group": null,
+      "minute": 49,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "6-河馆-9-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-10-0",
+      "group": "6-河馆-10",
+      "minute": 36,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-10-1",
+      "group": "6-河馆-10",
+      "minute": 43,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "6-河馆-10-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-10-2",
+      "group": "6-河馆-10",
+      "minute": 50,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "6-河馆-10-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-11-0",
+      "group": "6-河馆-11",
+      "minute": 37,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-11-1",
+      "group": null,
+      "minute": 44,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "6-河馆-11-0",
+        "6-河馆-10-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-11-2",
+      "group": null,
+      "minute": 51,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "6-河馆-11-1",
+        "6-河馆-10-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-12-0",
+      "group": "6-河馆-12",
+      "minute": 44,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-12-1",
+      "group": null,
+      "minute": 51,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "6-河馆-12-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-12-2",
+      "group": null,
+      "minute": 58,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "6-河馆-12-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-13-0",
+      "group": "6-河馆-13",
+      "minute": 45,
+      "people": 2,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-13-1",
+      "group": null,
+      "minute": 52,
+      "people": 2,
+      "seen_area": "廊",
+      "candidate": [
+        "6-河馆-13-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-13-2",
+      "group": null,
+      "minute": 59,
+      "people": 2,
+      "seen_area": "青厅",
+      "candidate": [
+        "6-河馆-13-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-14-0",
+      "group": "6-河馆-14",
+      "minute": 46,
+      "people": 3,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-14-1",
+      "group": null,
+      "minute": 53,
+      "people": 3,
+      "seen_area": "廊",
+      "candidate": [
+        "6-河馆-14-0",
+        "6-河馆-13-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-14-2",
+      "group": null,
+      "minute": 60,
+      "people": 3,
+      "seen_area": "青厅",
+      "candidate": [
+        "6-河馆-14-1",
+        "6-河馆-13-1"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-15-0",
+      "group": "6-河馆-15",
+      "minute": 47,
+      "people": 1,
+      "seen_area": "门",
+      "candidate": [],
+      "prob": 0.5,
+      "selected": true
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-15-1",
+      "group": "6-河馆-15",
+      "minute": 54,
+      "people": 1,
+      "seen_area": "廊",
+      "candidate": [
+        "6-河馆-15-0"
+      ],
+      "prob": null,
+      "selected": null
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "visit": "6-河馆-15-2",
+      "group": "6-河馆-15",
+      "minute": 61,
+      "people": 1,
+      "seen_area": "橙厅",
+      "candidate": [
+        "6-河馆-15-1"
+      ],
+      "prob": null,
+      "selected": null
+    }
+  ],
+  "counters": [
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "from": "廊",
+      "to": "青厅",
+      "start": 15,
+      "end": 75,
+      "people": 35,
+      "coverage": "continuous"
+    },
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "from": "廊",
+      "to": "橙厅",
+      "start": 15,
+      "end": 75,
+      "people": 26,
+      "coverage": "continuous"
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "from": "廊",
+      "to": "青厅",
+      "start": 15,
+      "end": 75,
+      "people": 35,
+      "coverage": "continuous"
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "from": "廊",
+      "to": "橙厅",
+      "start": 15,
+      "end": 75,
+      "people": 26,
+      "coverage": "continuous"
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "from": "廊",
+      "to": "青厅",
+      "start": 15,
+      "end": 75,
+      "people": 2,
+      "coverage": "continuous"
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "from": "廊",
+      "to": "橙厅",
+      "start": 15,
+      "end": 75,
+      "people": 26,
+      "coverage": "continuous"
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "from": "廊",
+      "to": "青厅",
+      "start": 15,
+      "end": 75,
+      "people": 35,
+      "coverage": "continuous"
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "from": "廊",
+      "to": "橙厅",
+      "start": 15,
+      "end": 75,
+      "people": 26,
+      "coverage": "continuous"
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "from": "廊",
+      "to": "青厅",
+      "start": 15,
+      "end": 75,
+      "people": 35,
+      "coverage": "gap"
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "from": "廊",
+      "to": "橙厅",
+      "start": 15,
+      "end": 75,
+      "people": 26,
+      "coverage": "gap"
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "from": "廊",
+      "to": "青厅",
+      "start": 15,
+      "end": 75,
+      "people": 35,
+      "coverage": "continuous"
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "from": "廊",
+      "to": "橙厅",
+      "start": 15,
+      "end": 75,
+      "people": 26,
+      "coverage": "continuous"
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "from": "廊",
+      "to": "青厅",
+      "start": 15,
+      "end": 75,
+      "people": 35,
+      "coverage": "continuous"
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "from": "廊",
+      "to": "橙厅",
+      "start": 15,
+      "end": 75,
+      "people": 26,
+      "coverage": "continuous"
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "from": "廊",
+      "to": "青厅",
+      "start": 15,
+      "end": 75,
+      "people": 35,
+      "coverage": "continuous"
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "from": "廊",
+      "to": "橙厅",
+      "start": 15,
+      "end": 75,
+      "people": 26,
+      "coverage": "continuous"
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "from": "廊",
+      "to": "青厅",
+      "start": 15,
+      "end": 75,
+      "people": 35,
+      "coverage": "continuous"
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "from": "廊",
+      "to": "橙厅",
+      "start": 15,
+      "end": 75,
+      "people": 26,
+      "coverage": "continuous"
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "from": "廊",
+      "to": "青厅",
+      "start": 15,
+      "end": 75,
+      "people": 35,
+      "coverage": "continuous"
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "from": "廊",
+      "to": "橙厅",
+      "start": 15,
+      "end": 75,
+      "people": 26,
+      "coverage": "continuous"
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "from": "廊",
+      "to": "青厅",
+      "start": 15,
+      "end": 75,
+      "people": 35,
+      "coverage": "gap"
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "from": "廊",
+      "to": "橙厅",
+      "start": 15,
+      "end": 75,
+      "people": 26,
+      "coverage": "gap"
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "from": "廊",
+      "to": "青厅",
+      "start": 15,
+      "end": 75,
+      "people": 35,
+      "coverage": "continuous"
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "from": "廊",
+      "to": "橙厅",
+      "start": 15,
+      "end": 75,
+      "people": 26,
+      "coverage": "continuous"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "places": {
+    "海馆": [
+      "门",
+      "廊",
+      "青厅",
+      "庭",
+      "橙厅",
+      "出口"
+    ],
+    "河馆": [
+      "门",
+      "廊",
+      "青厅",
+      "橙厅",
+      "出口"
+    ]
+  },
+  "moves": {
+    "海馆": [
+      [
+        "门",
+        "廊",
+        2,
+        true,
+        24
+      ],
+      [
+        "廊",
+        "青厅",
+        3,
+        true,
+        16
+      ],
+      [
+        "青厅",
+        "橙厅",
+        3,
+        false,
+        10
+      ],
+      [
+        "廊",
+        "庭",
+        2,
+        true,
+        16
+      ],
+      [
+        "庭",
+        "橙厅",
+        4,
+        true,
+        12
+      ],
+      [
+        "橙厅",
+        "出口",
+        1,
+        true,
+        20
+      ],
+      [
+        "青厅",
+        "廊",
+        3,
+        true,
+        12
+      ],
+      [
+        "廊",
+        "出口",
+        2,
+        true,
+        24
+      ]
+    ],
+    "河馆": [
+      [
+        "门",
+        "廊",
+        1,
+        true,
+        28
+      ],
+      [
+        "廊",
+        "青厅",
+        2,
+        true,
+        20
+      ],
+      [
+        "廊",
+        "橙厅",
+        3,
+        true,
+        12
+      ],
+      [
+        "青厅",
+        "出口",
+        3,
+        true,
+        24
+      ],
+      [
+        "橙厅",
+        "出口",
+        2,
+        true,
+        16
+      ]
+    ]
+  },
+  "closures": [
+    {
+      "venue": "海馆",
+      "day": "D8",
+      "move": [
+        "庭",
+        "橙厅"
+      ],
+      "start": 35,
+      "end": 65,
+      "received_at": "D7T18"
+    }
+  ],
+  "options": [
+    {
+      "id": "L0",
+      "青厅": "戏剧",
+      "橙厅": "书画",
+      "guidance": "青厅先",
+      "stop_minutes": [
+        12,
+        8
+      ]
+    },
+    {
+      "id": "L1",
+      "青厅": "书画",
+      "橙厅": "戏剧",
+      "guidance": "橙厅先",
+      "stop_minutes": [
+        8,
+        12
+      ]
+    },
+    {
+      "id": "L2",
+      "青厅": "戏剧",
+      "橙厅": "书画",
+      "guidance": "橙厅先",
+      "stop_minutes": [
+        12,
+        8
+      ]
+    }
+  ],
+  "comparison": [
+    {
+      "day": "D1",
+      "venue": "海馆",
+      "start": 15,
+      "end": 75,
+      "layout": "L2",
+      "groups": "both",
+      "open": true
+    },
+    {
+      "day": "D2",
+      "venue": "海馆",
+      "start": 15,
+      "end": 75,
+      "layout": "L0",
+      "groups": "both",
+      "open": true
+    },
+    {
+      "day": "D3",
+      "venue": "海馆",
+      "start": 15,
+      "end": 75,
+      "layout": "L2",
+      "groups": "both",
+      "open": true
+    },
+    {
+      "day": "D4",
+      "venue": "海馆",
+      "start": 15,
+      "end": 75,
+      "layout": "L0",
+      "groups": "both",
+      "open": true
+    },
+    {
+      "day": "D5",
+      "venue": "海馆",
+      "start": 15,
+      "end": 75,
+      "layout": "L2",
+      "groups": "both",
+      "open": true
+    },
+    {
+      "day": "D6",
+      "venue": "海馆",
+      "start": 15,
+      "end": 75,
+      "layout": "L0",
+      "groups": "both",
+      "open": true
+    },
+    {
+      "day": "D1",
+      "venue": "河馆",
+      "start": 15,
+      "end": 75,
+      "layout": "L0",
+      "groups": "both",
+      "open": true
+    },
+    {
+      "day": "D2",
+      "venue": "河馆",
+      "start": 15,
+      "end": 75,
+      "layout": "L2",
+      "groups": "both",
+      "open": true
+    },
+    {
+      "day": "D3",
+      "venue": "河馆",
+      "start": 15,
+      "end": 75,
+      "layout": "L0",
+      "groups": "both",
+      "open": true
+    },
+    {
+      "day": "D4",
+      "venue": "河馆",
+      "start": 15,
+      "end": 75,
+      "layout": "L2",
+      "groups": "both",
+      "open": true
+    },
+    {
+      "day": "D5",
+      "venue": "河馆",
+      "start": 15,
+      "end": 75,
+      "layout": "L0",
+      "groups": "both",
+      "open": true
+    },
+    {
+      "day": "D6",
+      "venue": "河馆",
+      "start": 15,
+      "end": 75,
+      "layout": "L2",
+      "groups": "both",
+      "open": true
+    }
+  ]
+}

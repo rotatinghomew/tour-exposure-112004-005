@@ -1,0 +1,120 @@
+{
+  "bookings": [
+    {
+      "id": "gA",
+      "venue": "海馆",
+      "day": "D8",
+      "status": "sold",
+      "quantity": 10,
+      "accessible": true,
+      "arrival": [
+        25,
+        32
+      ],
+      "stops": [
+        {
+          "area": "橙厅",
+          "window": [
+            44,
+            58
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gB",
+      "venue": "海馆",
+      "day": "D8",
+      "status": "sold",
+      "quantity": 9,
+      "accessible": true,
+      "arrival": [
+        42,
+        45
+      ],
+      "stops": [
+        {
+          "area": "青厅",
+          "window": [
+            52,
+            68
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gC",
+      "venue": "河馆",
+      "day": "D8",
+      "status": "held",
+      "quantity": 7,
+      "accessible": false,
+      "arrival": [
+        45,
+        60
+      ],
+      "stops": [
+        {
+          "area": "橙厅",
+          "window": [
+            56,
+            68
+          ]
+        }
+      ]
+    }
+  ],
+  "records": [
+    {
+      "at": "D7T11",
+      "venue": "海馆",
+      "kind": "open-plan",
+      "layout": "L2",
+      "day": "D8"
+    },
+    {
+      "at": "D8T07",
+      "venue": "海馆",
+      "kind": "installed",
+      "layout": "L0",
+      "day": "D8"
+    },
+    {
+      "at": "D8T08",
+      "venue": "河馆",
+      "kind": "installed",
+      "layout": "L2",
+      "day": "D8"
+    },
+    {
+      "at": "D8T18",
+      "venue": "海馆",
+      "kind": "counters",
+      "from": "廊",
+      "to": "青厅",
+      "start": 40,
+      "end": 60,
+      "people": 9,
+      "coverage": "gap",
+      "day": "D8"
+    },
+    {
+      "at": "D8T19",
+      "venue": "海馆",
+      "kind": "check-in",
+      "group": "gB",
+      "area": "青厅",
+      "at_minute": 58,
+      "day": "D8"
+    },
+    {
+      "at": "D8T19",
+      "venue": "海馆",
+      "kind": "check-in",
+      "group": "gA",
+      "area": "门",
+      "at_minute": 28,
+      "day": "D8"
+    }
+  ]
+}
