@@ -1,0 +1,8 @@
+id,host_tz,start_local,offset,duration,languages,hosts
+s1,America/New_York,2026-10-25T01:45,-04:00,35,zh+en,30
+s2,America/New_York,2026-11-01T01:35,-,30,zh+en,24
+s3,Europe/Madrid,2026-11-01T07:35,+01:00,30,zh+es,11
+s4,Asia/Bangkok,2026-11-08T14:00,+07:00,30,zh+en,20
+s5,Europe/Madrid,2026-11-07T23:15,+01:00,35,zh+en+es,23
+s6,America/New_York,2026-03-08T02:15,-,30,zh+en,24
+s7,America/New_York,2026-11-01T01:35,-05:00,30,zh+en,25

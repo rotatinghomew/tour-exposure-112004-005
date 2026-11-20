@@ -1,0 +1,14 @@
+[
+  {
+    "seq": 12,
+    "kind": "clock_note",
+    "session": "s2",
+    "offset": "-05:00"
+  },
+  {
+    "seq": 13,
+    "kind": "language",
+    "session": "s4",
+    "languages": "zh+fr"
+  }
+]

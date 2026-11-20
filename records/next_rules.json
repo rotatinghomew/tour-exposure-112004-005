@@ -1,0 +1,16 @@
+{
+  "attempt_budget": 4,
+  "contrast": [
+    "东岸",
+    "西岸"
+  ],
+  "allowed_units": [
+    "u2",
+    "u4",
+    "v2",
+    "v3",
+    "w1",
+    "w3"
+  ],
+  "postpone_reserved_if_unverified": true
+}

@@ -1,0 +1,5 @@
+group,school,timezone,students,languages
+G1,校甲,America/New_York,13,zh+en
+G2,校乙,Europe/Madrid,11,zh+es
+G3,校丙,Asia/Bangkok,12,zh+en
+G4,校丁,Asia/Shanghai,9,zh+en

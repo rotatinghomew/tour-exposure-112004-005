@@ -1,0 +1,7 @@
+{
+  "cycle_weeks": 4,
+  "target_per_week": 1,
+  "week_starts": "Mon",
+  "first_week": "2026-10-19",
+  "makeup_can_offset_only_earlier_deficit": true
+}

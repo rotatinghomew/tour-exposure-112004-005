@@ -1,0 +1,14 @@
+seq,round,unit,person,state,answer,topic_visible
+1,first,u1,a1,response,1,1
+2,first,u1,a2,refused,-,0
+3,first,u3,a5,response,0,1
+4,first,u3,a6,noanswer,-,0
+5,first,v1,a1,response,1,1
+6,first,v1,b4,noanswer,-,0
+7,first,v1,a7,noanswer,-,0
+8,first,w2,a1,response,1,1
+9,first,w2,a3,response,-,0
+10,first,w2,a5,response,0,1
+12,second,u2,a4,lock,-,0
+13,second,u2,a3,sent,-,0
+16,second,u2,a3,response,1,1
