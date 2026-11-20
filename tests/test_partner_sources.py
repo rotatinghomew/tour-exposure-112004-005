@@ -5,7 +5,8 @@ import unittest
 
 
 RECORDS = Path(__file__).resolve().parents[1] / 'records'
-SCHEMAS = {'venues.json': 'dict', 'observations.json': 'dict', 'booking_and_readback.json': 'dict'}
+SCHEMAS = {'venues.json': 'dict', 'observations.json': 'dict', 'booking_and_readback.json': 'dict',
+           'zone_rollout.json': 'dict'}
 
 
 class PartnerSourceTests(unittest.TestCase):
@@ -23,3 +24,14 @@ class PartnerSourceTests(unittest.TestCase):
                     records = json.load(source)
                     self.assertIsInstance(records, list if shape == 'list' else dict)
                     self.assertTrue(records)
+
+    def test_rollout_references_capacity(self):
+        layouts = json.loads((RECORDS / 'venues.json').read_text(encoding='utf-8'))
+        handoffs = json.loads((RECORDS / 'zone_rollout.json').read_text(encoding='utf-8'))
+        options = {row['id'] for row in layouts['options']}
+        for row in handoffs['pending_rollouts']:
+            self.assertIn(row['layout'], options)
+            self.assertLess(row['window'][0], row['window'][1])
+        for row in handoffs['staging_occupancy']:
+            capacities = {(move[0], move[1]): move[4] for move in layouts['moves'][row['venue']]}
+            self.assertGreaterEqual(capacities[row['from'], row['to']], row['blocked_units'])

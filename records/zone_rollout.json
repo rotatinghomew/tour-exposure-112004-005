@@ -1,0 +1,17 @@
+{
+  "rehearsal": [
+    {"venue": "海馆", "day": "D5", "window": [15, 44], "zone": "entrance_sign", "shown_layout": "L2", "known_at": "D5T18"},
+    {"venue": "海馆", "day": "D5", "window": [44, 75], "zone": "entrance_sign", "shown_layout": "L0", "known_at": "D5T18"},
+    {"venue": "海馆", "day": "D6", "window": [15, 75], "zone": "entrance_sign", "shown_layout": "L0", "known_at": "D6T18"}
+  ],
+  "pending_rollouts": [
+    {"id": "r81", "at": "D7T12", "venue": "海馆", "day": "D8", "layout": "L1", "zone": "hall_install", "window": [20, 55], "state": "accepted"},
+    {"id": "r82", "at": "D8T09", "venue": "海馆", "day": "D8", "layout": "L1", "zone": "entrance_sign", "window": [20, 55], "state": "installed"},
+    {"id": "r83", "at": "D8T10", "venue": "海馆", "day": "D8", "layout": "L0", "zone": "hall_install", "window": [20, 55], "state": "installed"},
+    {"id": "r84", "at": "D8T13", "venue": "海馆", "day": "D8", "layout": "L0", "zone": "entrance_sign", "window": [41, 55], "state": "installed"}
+  ],
+  "staging_occupancy": [
+    {"venue": "海馆", "day": "D8", "layout": "L1", "window": [25, 40], "from": "廊", "to": "庭", "blocked_units": 8, "reported_at": "D7T12"},
+    {"venue": "海馆", "day": "D8", "layout": "L1", "window": [45, 60], "from": "廊", "to": "青厅", "blocked_units": 7, "reported_at": "D7T12"}
+  ]
+}
